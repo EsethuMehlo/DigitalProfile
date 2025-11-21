@@ -7,6 +7,8 @@
 Below I will put down the proof of completion of the previously given tasks and reflect on what they taught me and 
 also how I will leverage on the workplace.
 
+This is divided into two sections, The screenshots as proof and the reflections section.
+
 ### Career Counselling
 ---
 
@@ -66,6 +68,7 @@ also how I will leverage on the workplace.
 ![Workplace Etiquette](https://github.com/EsethuMehlo/DigitalProfile/blob/main/InterviewSkills.png)
 ---
 
+---
 # REFLECTIONS
 ---
 
@@ -73,37 +76,65 @@ also how I will leverage on the workplace.
 ### Career Counselling
 ---
 
-I went in this assignment with many questions on my mind about which careeer to focus on within the IT industry with it's vast opportunities and careers. I thought that the course I am currently doing was going to be the answer but it provided me with more options instead which fueled my indecisiveness even further.
-I was basically was tasked with narrowing all these oppportunities.
-I went in this task with an open and an honest mind. I was honest with myself. 
-In the end of this task I found a the correct career for me and what is truly ideal for me
+#### Situation
+I started this assignment with many questions about which career path to follow in the IT industry. The field is full of different opportunities, and instead of finding clarity, I felt even more unsure. I had hoped that my current course would point me in one clear direction, but it actually opened up even more options, which increased my indecisiveness.
 
+#### Task
+My task was to narrow down all these opportunities and identify a career path that fit me best. I needed to reflect deeply and make an honest decision about what direction I truly wanted to follow.
+
+#### Action
+I approached the assignment with an open and honest mindset. I took time to reflect on my strengths, interests, and long-term goals. I allowed myself to be truthful about what I enjoy, what motivates me, and what career path I can realistically grow in.
+
+#### Result
+By the end of the assignment, I found a career choice that fits me and aligns with who I am. I gained clarity and confidence, and I now understand the path that is ideal for me moving forward.
+
+---
 ### Skills And Interests
 ---
-Growing up as an atheletic child, I had a huge problem with knowing what I really am good at in terms of talants and skills.
 
-With a heavy task to find what I am good at and how I can leverage it to my chosen careers I had to make a chance.
-I went into the Skills and Interests assessment with honesty and less emotion. I went in t woth  aligning all skills and talents I have with my current interests and hobbies
-.
-The result of this was find what I relly want from the workplace, my career and from myself as well. I know for sure that I want a career in IT that will align with my good communication skills and many other soft skills that make me happy tp express especially that will help my fellow people.
+#### Situation
+Growing up as an athletic child, I always struggled to understand what my real talents and skills were outside of sports. I often questioned what I was truly good at and how those abilities could support my future career.
 
+#### Task
+The task required me to identify my strengths and understand how I could use them in the IT career path I am working toward. I needed to take a deep look at myself and make a clear decision about what skills I could rely on moving forward.
+
+#### Action
+I approached the Skills and Interests assessment with honesty and without too much emotion. I focused on aligning my natural talents, my personal strengths, and the hobbies I enjoy with my career goals. I took time to be realistic about what I can do well and what brings me genuine satisfaction.
+
+#### Result
+Through this process, I discovered what I truly want from the workplace, my career, and even from myself. I now know that I want an IT career that connects with my strong communication skills and other soft skills I enjoy using. I also realised that I want a role where I can help people while still growing professionally. This reflection gave me clarity and confidence in the direction I want to take.
+
+---
 ### Create a CV
 ---
-We all thinkn writing a CV is writing your name and your qualifications only. 
-This task showed me something else. I will not lie, I was shown how much vital a CV is.
-I had to use the CV's importance in my professional and align it with myself entirely. 
-I was able to create a CV that highlghted more than just my name and my qualifications. I was able to cyrate a CV that  would show potential employers how I much I am attraction for them. It oultlined what they would receive from and showed all of my history , thanks to the course I was given. I basically amde use of that information and submitted it that CV on the CV submission link or task.
 
+#### Situation
+I used to think that writing a CV was just about listing your name and qualifications. This task showed me that a CV is much more important and can say a lot about a person to potential employers.
 
+#### Task
+The task required me to create a CV that was not only accurate but also professional and appealing to employers. I had to understand how to present myself in a way that highlighted my strengths and made me stand out.
+
+#### Action
+I focused on using the CV to reflect my full professional potential. I carefully aligned my skills, experiences, and accomplishments with what employers would find valuable. I incorporated my learning from the course to create a CV that went beyond just my name and qualifications, highlighting what I can contribute and the value I bring.
+
+#### Result
+As a result, I produced a CV that truly represents me and my potential. It communicates my strengths, experience, and achievements in a way that attracts employers. I submitted this CV on the task link, confident that it showcases me as a strong candidate and professional.
+
+---
 ### Personality Assessment
 ---
 
-One thing that we never think in terms of choosing careers is choosing careers and workplaces that will fit precisely with the type of personalities we have. 
+#### Situation
+One thing we rarely consider when choosing a career is how our personality fits with the workplace. I realised that finding a career and environment that matches my personality is just as important as the job itself.
 
-With a heavy task to find what I am good at and how I can leverage it to my chosen careers I had to make a chance.
-So I decdied to go into the Personality assessment honestly for a good result as this is vital for me as a person.
+#### Task
+The task required me to discover my personality traits and understand how they can influence my career choices. I needed to honestly identify my strengths and preferences to find the best work environment for me.
 
-The result of this was find what I relly want from the workplace in terms of my personality. I now know how importat to find a work enviroment that compliment my perfectionistic personality and as well as my hardworking traits as well.
+#### Action
+I approached the Personality Assessment with honesty, focusing on getting accurate results that truly reflect who I am. I carefully analysed the outcomes to see how my traits, such as perfectionism and hard work, could align with potential careers and workplaces.
+
+#### Result
+Through this process, I gained clarity on what I truly want from a work environment. I now understand the importance of choosing a workplace that complements my personality, allowing me to thrive and use my strengths effectively. This reflection has given me confidence in making career decisions that fit both my skills and personal traits.
 
 ---
 ### Mock Interview
