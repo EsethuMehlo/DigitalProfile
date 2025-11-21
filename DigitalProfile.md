@@ -40,25 +40,31 @@ also how I will leverage on the workplace.
 ---
 ## Mock Interview
 ---
-[Mock Interview](https://github.com/wil-it2025/cv-tutorial-EsethuMehlo/blob/main/Esethu%20Gift%20Meho%2021612573%20Mock%20interview.mp4)
+[Mock Interview Video Link](https://github.com/wil-it2025/cv-tutorial-EsethuMehlo/blob/main/Esethu%20Gift%20Meho%2021612573%20Mock%20interview.mp4)
+![Mock Interview](https://github.com/EsethuMehlo/DigitalProfile/blob/main/MockInterview2.png)
 
 ---
 
 ### Business Communication
-
+---
+![Business Communication](https://github.com/EsethuMehlo/DigitalProfile/blob/main/BusinessCommunication.png)
 ---
 
 ### Interview Skills 
-
+---
+![Interview Skills](https://github.com/EsethuMehlo/DigitalProfile/blob/main/InterviewSkills.png)
 ---
 
-### Professional Skills
+### Professional Networking
+---
 
+![Professional Networking](https://github.com/EsethuMehlo/DigitalProfile/blob/main/ProfessionalNetworking.png)
 ---
 
 ### Workplace Etiquette
-
-----
+---
+![Workplace Etiquette](https://github.com/EsethuMehlo/DigitalProfile/blob/main/InterviewSkills.png)
+---
 
 # REFLECTIONS
 ---
