@@ -147,7 +147,7 @@ After completing the Professional Networking module, I realised how powerful and
 My aim was to understand how to build and maintain professional relationships in a responsible and effective way. I wanted to learn how to network without overstepping boundaries or misusing opportunities.
 
 #### Action
-Throughout the module, I explored how to use both in-person interactions and online platforms to grow my professional presence. I also learned the importance of balance—using networking wisely without abusing it, because it can backfire. I reflected on how I can use the internet, social media, and even my own circle of friends and colleagues to open future opportunities.
+Throughout the module, I explored how to use both in-person interactions and online platforms to grow my professional presence. I also learned the importance of balance using networking wisely without abusing it, because it can backfire. I reflected on how I can use the internet, social media, and even my own circle of friends and colleagues to open future opportunities.
 
 #### Result
 The module opened my eyes to the real value of networking and showed me that it is something I need to practice everywhere and anywhere. It also taught me to approach it responsibly and respectfully. I now feel better prepared to build meaningful professional relationships and to use my environment and the internet to my advantage. I am truly grateful for the insights this module gave me.
@@ -168,3 +168,20 @@ I engaged fully with the material and took in the practical skills taught in the
 
 #### Result
 The module greatly improved my confidence and expanded my interview skills arsenal. I now feel more prepared and aware of what happens inside the interview room. Even though I have not yet had the chance to use these new skills, I am ready and excited to apply them when the opportunity comes. This learning experience has strengthened my readiness for future IT interviews.
+
+---
+### Business Communication
+
+---
+
+#### Situation
+After I finished the Business Communication module, I realised how much I needed to improve the way I communicate in both professional and personal environments. The module opened my eyes to how important clear, respectful, and accountable communication is, no matter who I am speaking to.
+
+#### Task
+My goal was to understand how to communicate effectively with different people in a workplace hierarchy. I wanted to learn how to show respect, take responsibility for my words and actions, and consider the impact of my communication on others.
+
+#### Action
+I paid close attention to the lessons and reflected on how they apply across different areas of life. I learned how to adjust my communication depending on who I am addressing, whether it is a manager, colleague, or someone junior. I also focused on accountability and thought about how being responsible for my communication builds trust and professionalism.
+
+#### Result
+The module taught me valuable skills that go far beyond the workplace. I learned the importance of respecting everyone and taking each person into consideration when I communicate. These lessons are not only useful for when I become an employee—they will also guide me as a friend, brother, father, and even a future employer. The experience was truly eye-opening, and I am committed to applying these communication skills in every part of my life.
