@@ -38,9 +38,27 @@ also how I will leverage on the workplace.
 ![Personality Assessment](https://github.com/EsethuMehlo/DigitalProfile/blob/main/PersonalityAssessment.jpg)
 
 ---
+## Mock Interview
+---
+[Mock Interview](https://github.com/wil-it2025/cv-tutorial-EsethuMehlo/blob/main/Esethu%20Gift%20Meho%2021612573%20Mock%20interview.mp4)
 
+---
 
+### Business Communication
 
+---
+
+### Interview Skills 
+
+---
+
+### Professional Skills
+
+---
+
+### Workplace Etiquette
+
+----
 
 # REFLECTIONS
 ---
@@ -80,3 +98,6 @@ With a heavy task to find what I am good at and how I can leverage it to my chos
 So I decdied to go into the Personality assessment honestly for a good result as this is vital for me as a person.
 
 The result of this was find what I relly want from the workplace in terms of my personality. I now know hw importat to find a work enviroment that compliment my perfectionistic personality and as well as my hardworking traits as well.
+
+### Mock Interview
+---
